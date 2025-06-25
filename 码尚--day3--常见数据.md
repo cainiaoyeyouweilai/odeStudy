@@ -1,4 +1,5 @@
-码尚--day3--常见数据类型详解：
+- [ ] 码尚--day3--常见数据类型详解：
+
 
 - 一、Python基本语法
 
@@ -19,13 +20,25 @@
 
 ​		Set（集合）---可变
 
-  	      Dictionary（字典）---可变
+​      	  Dictionary（字典）---可变
 
-- 三、Number数据类型
+- 三、Number数据类型---数值类型
 
-  ​	Python3支持四种不同的数值类型int、float、bool、complex（复数）。
+  ​	1、Python3支持四种不同的数值类型int、float、bool、complex		（复数）。
 
-  ​		bool类型：0==flase  1==true
+  ​		bool类型：0==False    1==True
+
+  ​	2、常用的数值函数
+
+  ​            abs(x)取得数字的绝对值
+
+  ​	    ceil(x)返回数字的上入整数
+
+  ​            floor(x)返回数字的下舍整数
+
+  ​            random.random()返回随机生成的一个实数，它在[0,1)范围内。
+
+  ​	    random.randint(a,b)返回随机生成一个整数，在a~b之间的整数
 
 - 四、String数据类型
 
